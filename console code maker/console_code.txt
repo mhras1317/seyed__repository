@@ -1,0 +1,8 @@
+<ListBoxItem Foreground="Red" Content="Pleased to meet you again !"/>
+
+<ListBoxItem Foreground="Green" Content="Thanks , Oh look at here !"/>
+<ListBoxItem Foreground="Black" Content="I have 8 colors on my xylophone !"/>
+<System:String xml:space="preserve"> ------------------------------------- </System:String>
+Test
+
+
